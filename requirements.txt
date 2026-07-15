@@ -9,3 +9,4 @@ Flask-SQLAlchemy
 SQLAlchemy
 pytz
 requests
+legacy-imghdr
